@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IFGOIANO_POO.iml" filepath="$PROJECT_DIR$/.idea/IFGOIANO_POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_1/Lista_1.iml" filepath="$PROJECT_DIR$/Lista_1/Lista_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Banco_V1/SistemaBancarioV1.iml" filepath="$PROJECT_DIR$/Banco_V1/SistemaBancarioV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaBancarioV1/SistemaBancarioV1.iml" filepath="$PROJECT_DIR$/SistemaBancarioV1/SistemaBancarioV1.iml" />
     </modules>
   </component>
 </project>
